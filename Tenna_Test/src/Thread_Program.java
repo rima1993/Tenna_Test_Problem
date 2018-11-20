@@ -51,8 +51,6 @@ public class Thread_Program {
 		}
 	}
  
-	
- 
 	public static void main(String[] args) {
  
 		Thread_Program oep = new Thread_Program();
